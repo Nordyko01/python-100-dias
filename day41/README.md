@@ -1,10 +1,10 @@
-# Day 41 - Introduction to HTML
-## Concepts Practised
-- The Anatomy of an HTML Tag
-- HTML Boilerplate
-- How to Structure Text in HTML
-- HTML Lists
-- HTML Image Elements
-- HTML Links and Anchor Tags
-## Basic HTML Website
+# Dia 41 - Introdução ao HTML
+## Conceitos Praticados
+- A Anatomia de uma Tag HTML
+- Modelos HTML
+- Como Estruturar Texto em HTML
+- Listas HTML
+- Elementos de Imagem HTML
+- Links HTML e Tags Âncora
+## Site HTML Básico
 ![day41](https://user-images.githubusercontent.com/98851253/157312964-9d69864c-450c-4325-a8df-69d86aa5d34b.gif)

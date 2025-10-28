@@ -1,15 +1,15 @@
-# Instructions
+# Instruções
 
-- Read this the code in main.py
-- Spot the problems 🐞.
-- Modify the code to fix the program.
-- No shortcuts - don't copy-paste to replace the code entirely with a working solution.
-- The code needs to print the solution to the FizzBuzz game.
+- Leia o código em main.py
+- Identifique os problemas 🐞.
+- Modifique o código para corrigir o programa.
+- Sem atalhos - não copie e cole para substituir o código inteiro por uma solução funcional.
+- O código precisa imprimir a solução para o jogo FizzBuzz.
 
-Your program should print each number from 1 to 100 in turn.
+Seu programa deve imprimir cada número de 1 a 100, um de cada vez.
 
-When the number is divisible by 3 then instead of printing the number it should print "Fizz".
+Quando o número for divisível por 3, em vez de imprimir o número, ele deve imprimir "Fizz".
 
-When the number is divisible by 5, then instead of printing the number it should print "Buzz".
+Quando o número for divisível por 5, em vez de imprimir o número, ele deve imprimir "Buzz".
 
-And if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it should print "FizzBuzz"
+E se o número for divisível por 3 e 5, por exemplo, 15, em vez do número, ele deve imprimir "FizzBuzz".

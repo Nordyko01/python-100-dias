@@ -1,8 +1,8 @@
-# Instructions
+# Instruções
 
-- Read this the code in main.py
-- Spot the problems 🐞.
-- Modify the code to fix the program.
-- No shortcuts - don't copy-paste to replace the code entirely with a working solution.
+- Leia o código em main.py
+- Identifique os problemas 🐞.
+- Modifique o código para corrigir o programa.
+- Sem atalhos - não copie e cole para substituir o código inteiro por uma solução funcional.
 
-Fix the code so that it works and when you hit submit it should pass all the tests.
+Corrija o código para que ele funcione e, quando você clicar em enviar, ele deverá passar em todos os testes.

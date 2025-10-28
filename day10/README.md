@@ -1,10 +1,10 @@
-# Day 10 - Functions with Outputs
-## Concepts Practised
-- Function with Outputs
-- Multiple return values
+# Dia 10 - Funções com Saídas
+## Conceitos Praticados
+- Função com Saídas
+- Múltiplos Valores de Retorno
 - Docstrings
-- Combining Dictionaries and Functions
+- Combinando Dicionários e Funções
 - Print vs. Return
-- While Loops, Flags and Recursion
-## Calculator
+- Laços While, Flags e Recursão
+## Calculadora
 ![day10](https://user-images.githubusercontent.com/98851253/154529776-2a53b345-94bd-4a93-b1d5-a80830531055.gif)

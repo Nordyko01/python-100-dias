@@ -1,100 +1,100 @@
-1) The Godfather
-2) The Empire Strikes Back
-3) The Dark Knight
-4) The Shawshank Redemption
+1) O Poderoso Chefão
+2) O Império Contra-Ataca
+3) Batman: O Cavaleiro das Trevas
+4) Um Sonho de Liberdade
 5) Pulp Fiction
-6) Goodfellas
-7) Raiders Of The Lost Ark
-8) Jaws
+6) Os Bons Companheiros
+7) Os Caçadores da Arca Perdida
+8) Tubarão
 9) Star Wars
-10) The Lord Of The Rings: The Fellowship Of The Ring
-11) Back To The Future
-12: The Godfather Part II
+10) O Senhor dos Anéis: A Sociedade do Anel
+11) De Volta para o Futuro
+12: O Poderoso Chefão Parte II
 13) Blade Runner
-14) Alien
+14) Alien: O Caçador de Androides
 15) Aliens
-16) The Lord Of The Rings: The Return Of The King
-17) Fight Club
-18) Inception
+16) O Senhor dos Anéis: O Retorno do Rei
+17) Clube da Luta
+18) A Origem
 19) Jurassic Park
-20) Die Hard
-21) 2001: A Space Odyssey
+20) Duro de Matar
+21) 2001: Uma Odisseia no Espaço
 22) Apocalypse Now
-23) The Lord Of The Rings: The Two Towers
-24) The Matrix
-25) Terminator 2: Judgment Day
-26) Heat
-27) The Good, The Bad And The Ugly
+23) O Senhor dos Anéis: As Duas Torres
+24) Matrix
+25) O Exterminador do Futuro 2: O Julgamento Final
+26) Fogo Contra Fogo
+27) Três Homens em Conflito
 28) Casablanca
-29) The Big Lebowski
-30) Seven
+29) O Grande Lebowski
+30) Seven - Os Sete Anões
 31) Taxi Driver
-32) The Usual Suspects
-33) Schindler's List
-34) Guardians Of The Galaxy
-35) The Shining
-36) The Departed
-37) The Thing
-38) Mad Max: Fury Road
-39) Saving Private Ryan
-40) 12 Angry Men
-41) Eternal Sunshine Of The Spotless Mind
-42) There Will Be Blood
-43) One Flew Over The Cuckoo's Nest
-44) Gladiator
+32) Os Suspeitos do Costume
+33) A Lista de Schindler
+34) Guardiões da Galáxia
+35) O Iluminado
+36) Os Infiltrados
+37) O Enigma de Outro Mundo
+38) Mad Max: Estrada da Fúria
+39) O Resgate do Soldado Ryan
+40) 12 Homens e uma Sentença
+41) Brilho Eterno de Uma Mente Sem Lembranças
+42) Sangue Negro
+43) Um Estranho no Ninho
+44) Gladiador
 45) Drive
-46) Citizen Kane
-47) Interstellar
-48) The Silence Of The Lambs
+46) Cidadão Kane
+47) Interestelar
+48) O Silêncio dos Inocentes
 49) Trainspotting
-50) Lawrence Of Arabia
-51) It's A Wonderful Life
-52) Once Upon A Time In The West
-53) Psycho
-54) Vertigo
-55) Pan's Labyrinth
-56) Reservoir Dogs
-57) Whiplash
-58) Inglourious Basterds
-59) E.T. – The Extra Terrestrial
-60) American Beauty
+50) Lawrence da Arábia
+51) A Felicidade Não se Compra
+52) Era Uma Vez no Oeste
+53) Psicose
+54) Um Corpo que Cai
+55) O Labirinto do Fauno
+56) Reservoir Cães
+57) Chicote
+58) Bastardos Inglórios
+59) E.T. – O Extraterrestre
+60) Beleza Americana
 61) Forrest Gump
 62) La La Land
 63) Donnie Darko
-64) L.A. Confidential
-65) Avengers Assemble
-66) Return Of The Jedi
-67) Memento
-68) Ghostbusters
-69) Singin' In The Rain
-70) The Lion King
-71) Hot Fuzz
-72) Rear Window
-73) Seven Samurai
-74) Mulholland Dr.
+64) Los Angeles - Cidade Proibida
+65) Os Vingadores - Assemble
+66) O Retorno de Jedi
+67) Amnésia
+68) Os Caça-Fantasmas
+69) Cantando na Chuva
+70) O Rei Leão
+71) Fumaça Quente
+72) Janela Indiscreta
+73) Os Sete Samurais
+74) Dr. Mulholland
 75) Fargo
-76) A Clockwork Orange
+76) Laranja Mecânica
 77) Toy Story
 78) Oldboy
-79) Captain America: Civil War
-15) Spirited Away
-81) The Social Network
-82) Some Like It Hot
-83) True Romance
-84) Rocky
+79) Capitão América: Guerra Civil
+15) A Viagem de Chihiro
+81) A Rede Social
+82) Quanto Mais Quente Melhor
+83) Amor à Queima-Roupa
+84) Rocky Rocky
 85) Léon
-86) Indiana Jones And The Last Crusade
-87) Predator
-88) The Exorcist
-89) Shaun Of The Dead
-90) No Country For Old Men
-91) The Prestige
-92) The Terminator
-93) The Princess Bride
-94) Lost In Translation
-95) Arrival
-96) Good Will Hunting
+86) Indiana Jones e a Última Cruzada
+87) Predador
+88) O Exorcista
+89) Todo Mundo Quase Morto
+90) Onde os Mortos Não Têm Vez Velhos
+91) O Grande Truque
+92) O Exterminador do Futuro
+93) A Princesa Prometida
+94) Encontros e Desencontros
+95) A Chegada
+96) Gênio Indomável
 97) Titanic
-98) Amelie
-99) Raging Bull
-100) Stand By Me
+98) Amélie Poulain
+99) Touro Indomável
+100) Conta Comigo
